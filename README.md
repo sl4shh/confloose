@@ -11,3 +11,6 @@ python3 <(wget -qO- https://raw.githubusercontent.com/sl4shh/confloose/main/UwUi
 
 ### Memeifier
 Replace lot of things with memes
+```bash
+bash <(wget -qO- https://raw.githubusercontent.com/sl4shh/confloose/main/memeifier/Memeifier.sh)
+```
