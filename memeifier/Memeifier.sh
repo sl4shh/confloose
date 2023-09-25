@@ -13,7 +13,7 @@ echo "alias gedit='vim'" >> ~/.bashrc
 echo "setxkbmap fr bepo" >> ~/.bashrc
 
 # Terminaux en blanc
-echo "printf \"\033[47m\033[30m\"" >> ~/.bashrc"
+echo "printf \"\033[47m\033[30m\"" >> ~/.bashrc
 
 clear
-exit N
+exit 0
