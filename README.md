@@ -1,7 +1,7 @@
 # Confloose
 Little pranks for friends that forgot to lock their computers
 
-### UwUifier 😻
+### UwUifier
 Rename all files in current directory, and even sub-directories to UwU files.
 Create a bash antidote file to revert changes.
 Avoid renaming dot files if possible
