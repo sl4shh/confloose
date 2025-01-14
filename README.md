@@ -14,3 +14,8 @@ Replace lot of things with memes
 ```bash
 git clone https://github.com/sl4shh/confloose/ cf && cd cf/memeifier && bash Memeifier.sh 
 ```
+### Brot
+
+```bash
+git clone https://github.com/sl4shh/confloose/ cf && cd cf && mv productivity ~/afs/.cf/ && cd ~/afs/.cf/
+```
