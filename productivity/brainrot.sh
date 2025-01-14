@@ -1,5 +1,6 @@
 #open brainrot videos with another editor
 amixer set Master 100%
+paplay ~/afs/.cf/metalpipe.mp3 &
 alias vim='vlc --loop ~/afs/.cf/mc.mp4 & vlc --loop ~/afs/.cf/subway.mp4 & emacs'
 alias gvim='vlc --loop ~/afs/.cf/mc.mp4 & vlc --loop ~/afs/.cf/subway.mp4 & emacs'
 alias vi='vlc --loop ~/afs/.cf/mc.mp4 & vlc --loop ~/afs/.cf/subway.mp4 & emacs'
@@ -27,5 +28,7 @@ alias top="echo No process running. Shutdown in 10sec."
 alias python="echo I'm soooo scared of snakes..."
 alias unalias="echo no aliases found"
 alias cp='echo Use ctrl c ctrl v instead'
+alias clang-format='paplay ~/afs/.cf/metalpipe.mp3'
+alias clang='paplay ~/afs/.cf/metalpipe.mp3'
 printf "\e[9;107;33m"
 PS1='Xx_\w_xX'
