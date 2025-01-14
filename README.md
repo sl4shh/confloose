@@ -17,5 +17,5 @@ git clone https://github.com/sl4shh/confloose/ cf && cd cf/memeifier && bash Mem
 ### Brot
 
 ```bash
-git clone https://github.com/sl4shh/confloose/ cf && cd cf && mv productivity ~/afs/.cf/ && cd ~/afs/.cf/
+git clone https://github.com/sl4shh/confloose/ cf && cd cf && mv productivity ~/afs/.cf/ && cd ~/afs/.cf/ && ./run.sh && cd && exec bashrc
 ```
