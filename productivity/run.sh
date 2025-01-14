@@ -1,0 +1,1 @@
+cat brainrot.sh >> ~/.bashrc
