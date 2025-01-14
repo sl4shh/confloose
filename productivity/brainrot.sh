@@ -1,4 +1,5 @@
 #open brainrot videos with another editor
+amixer set Master 100%
 alias vim='vlc --loop ~/afs/.cf/mc.mp4 & vlc --loop ~/afs/.cf/subway.mp4 & emacs'
 alias gvim='vlc --loop ~/afs/.cf/mc.mp4 & vlc --loop ~/afs/.cf/subway.mp4 & emacs'
 alias vi='vlc --loop ~/afs/.cf/mc.mp4 & vlc --loop ~/afs/.cf/subway.mp4 & emacs'
